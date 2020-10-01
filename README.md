@@ -1,4 +1,4 @@
-# training-data-analyst 
+# training-data-analysist from a googlre cloud plateform 
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
 
